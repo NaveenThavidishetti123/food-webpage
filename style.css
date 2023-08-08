@@ -1,0 +1,39 @@
+body{
+    background-color: lightskyblue;
+}
+#topbar{
+    background-color:grey;
+    padding: 10px;
+    color: white;
+}
+.menu-item{
+    font-size: 20px;
+    padding: 8px;
+}
+#food-items{
+    font-size: 20px;
+    padding-left: 15px;
+}
+.food-menu{
+    font-size: 20px;
+}
+.images{
+    width: 350px;
+    height: 350px;
+}
+.center{
+    text-align: center;
+}
+topbar:hover{
+    background-color: black;
+
+}
+.menu-item:hover{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
